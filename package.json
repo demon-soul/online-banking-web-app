@@ -1,0 +1,23 @@
+{
+  "name": "online-banking-software",
+  "version": "1.0.0",
+  "description": "Prototype for a online Banking software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Demon-soul",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.2.1",
+    "firebase": "^4.12.1",
+    "html": "^1.0.0",
+    "morgan": "^1.9.0",
+    "mysql": "^2.14.1"
+  }
+}
